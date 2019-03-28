@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd92649c-e350-46d6-9140-aa071da4838d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>26fa8cb2-aa06-4595-b3ef-4ba82cc557ba</id>
+      <masked>false</masked>
+      <name>campaign</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>da40da05-1c1e-4da1-a0f5-a4c41cf03659</id>
+      <masked>false</masked>
+      <name>event</name>
+   </variable>
+</TestCaseEntity>

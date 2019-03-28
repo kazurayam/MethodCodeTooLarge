@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS1,,,2019-03-28 10:02:46,2019-03-28 10:02:48,1.311s,PASSED
+,,,,,,
+Test Cases/TC1,,,2019-03-28 10:02:47,2019-03-28 10:02:47,0.696s,PASSED
+"comment(""Setup"")",,Given,2019-03-28 10:02:47,2019-03-28 10:02:47,0.110s,PASSED
+"requestUrl = ""http://demoaut.katalon.com""",,,2019-03-28 10:02:47,2019-03-28 10:02:47,0.000s,PASSED
+"adminToken = ""foo""",,,2019-03-28 10:02:47,2019-03-28 10:02:47,0.000s,PASSED
+jsonTemplate = text,,,2019-03-28 10:02:47,2019-03-28 10:02:47,0.001s,PASSED
+"bindings = [""campaign"":campaign, ""event"":event]",,,2019-03-28 10:02:47,2019-03-28 10:02:47,0.001s,PASSED
