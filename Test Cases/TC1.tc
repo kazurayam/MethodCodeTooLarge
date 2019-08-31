@@ -3,7 +3,9 @@
    <description></description>
    <name>TC1</name>
    <tag></tag>
-   <comment></comment>
+   <comment>Setup
+When
+Then</comment>
    <testCaseGuid>fd92649c-e350-46d6-9140-aa071da4838d</testCaseGuid>
    <variable>
       <defaultValue>''</defaultValue>

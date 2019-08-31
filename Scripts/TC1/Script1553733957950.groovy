@@ -14,7 +14,7 @@ import internal.GlobalVariable as GlobalVariable
 WS.comment("Setup")
 def requestUrl = "http://demoaut.katalon.com"
 def adminToken = "foo"
-jsonTemplate = new File(".\\Include\\resources\\logUnique.json").text
+jsonTemplate = new File("./Include/resources/logUnique.json").text
 bindings = [ 'campaign' : campaign, 'event' : event ]
 
 //TemplateEngine engine = new groovy.text.SimpleTemplateEngine()
